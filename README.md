@@ -6,4 +6,4 @@
 
 ## fall2021_image_preprocessing_data_augmentation.ipynb contains data preparation
 
-## Google drive folder link: https://drive.google.com/drive/folders/1t2oLTk-cUAQEFAgf6rY0UTw_vjW4c98Q?usp=sharing
+## Google drive folder link: https://drive.google.com/drive/folders/1UhvakzyRkuIU9ymt1neqhXzvhd1EwAL3?usp=sharing
